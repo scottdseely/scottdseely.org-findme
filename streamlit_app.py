@@ -15,10 +15,10 @@ st.info('Developer Advocate, Database, Data Analytics, Basketball')
 
 icon_size = 20
 
+st_button('linkedin', 'https://www.linkedin.com/in/scottdseely/', 'Follow me on LinkedIn', icon_size)
 st_button('youtube', 'https://youtube.com/scottdseely', 'Data Professor YouTube channel', icon_size)
 st_button('youtube', 'https://youtube.com/scottdseely', 'Coding Professor YouTube channel', icon_size)
 st_button('medium', 'https://medium.com/@ScottDSeely/lists', 'Read my Blogs', icon_size)
 st_button('twitter', 'https://twitter.com/scottdseely/', 'Follow me on Twitter', icon_size)
-st_button('linkedin', 'https://www.linkedin.com/in/scottdseely/', 'Follow me on LinkedIn', icon_size)
 st_button('newsletter', 'https://sendfox.com/scottdseely/', 'Sign up for my Newsletter', icon_size)
 st_button('cup', 'https://www.buymeacoffee.com/scottdseely/', 'Buy me a Coffee', icon_size)
